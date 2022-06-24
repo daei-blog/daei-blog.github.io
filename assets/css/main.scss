@@ -33,6 +33,11 @@ $small-font-size:  $base-font-size * 0.875;
 $base-line-height: normal;
 $spacing-unit:     30px;
 
+body
+{
+    font-family:IRANSansWeb !important;
+}
+
 /* Palette from 
 https://coolors.co/app/000000-14213d-fca311-e5e5e5-ffffff 
 $brand-color:      #fca311;
