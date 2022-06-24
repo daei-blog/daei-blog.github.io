@@ -1,7 +1,6 @@
 ---
 layout: page
 title: درباره
-permalink: /page/about/
 date: 2022-06-24T02:53:50.975Z
 thumbnail: ""
 rating: ""
