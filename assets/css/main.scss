@@ -14,9 +14,6 @@
        url(/assets/fonts/irsw/IRANSansWeb.woff2) format('woff2');
 }
 
-@import url(https://fonts.googleapis.com/earlyaccess/notokufiarabic.css);
-@import url(https://fonts.googleapis.com/earlyaccess/droidarabicnaskh.css);
-
 /* Persian Wikipedia uses this:
  * pfont,'Iranian Serif','Iranian Sans',Tahoma,'Noto Serif','Droid Arabic Naskh','DejaVu Sans',serif !important;
  * Some latin fonts: "Abril Fatface", "Vollkorn", "Josefin Slab"
@@ -25,7 +22,7 @@
  */
 
 // Font stylesheets should be loaded in the header file
-$base-font-family: 'Droid Arabic Naskh',IRANSansWeb,"PT Serif",Ubuntu,'Iranian Serif','Iranian Sans','DejaVu Sans',serif !important;
+$base-font-family: 'Droid Arabic Naskh',IRANSansWeb,"PT Serif",IRANSansWeb,'Iranian Serif','Iranian Sans','DejaVu Sans',IRANSansWeb !important;
 $alt-font-family: 'Noto Kufi Arabic','IRANSansWeb';
 
 $base-font-size:   16px;
