@@ -8,7 +8,7 @@
 
   <id>https://daei.enchant.ir/</id>
   <title type="text" xml:lang="fa">وبلاگ دایموند</title>
-  <updated>2022-06-24T14:41:22Z</updated>
+  <updated>2022-06-24T14:43:43Z</updated>
   <rights>Commons Attribution 4.0 International</rights>
 
   <author>
@@ -35,22 +35,6 @@
     <summary>سلام، این اولین پست سایت من است
 
 خیلی خوش اومدید به اینجا
-</summary>
-  </entry>
-  
-  <entry>
-    
-    <id>https://daei.enchant.ir/page/about/</id>
-    
-    <title>درباره</title>
-    <updated>2022-06-24T07:23:50Z</updated>
-    <link rel="alternate" type="text/html" href="https://daei.enchant.ir/page/about/"/>
-    
-    <content type="html">
-        <![CDATA[<div dir="rtl"><p>این صفحه بزودی کامل میشود</p>
-</div>]]>
-    </content>
-    <summary>این صفحه بزودی کامل میشود
 </summary>
   </entry>
   
