@@ -1,7 +1,6 @@
 ---
 layout: post
 title: سلام دنیا!
-permalink: /2022/06/24/
 date: 2022-06-24T03:02:31.437Z
 thumbnail: /assets/uploads/hello-world.jpg
 ---
