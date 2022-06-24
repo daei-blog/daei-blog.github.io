@@ -23,7 +23,7 @@ long_description: >
   اینجا سکوی انتشار تجربیات، دست نوشته ها و هر جیزی که میخام درباره هر موضوعی که میخوام هست :)
 
 # The tiny icon of the website
-favicon: assets/img/favicon.png
+favicon: /assets/img/favicon.png
 permalink: /:year/:month/:day/:slug/
 timezone: Asia/Tehran
 
