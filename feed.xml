@@ -8,7 +8,7 @@
 
   <id>https://daei.enchant.ir/</id>
   <title type="text" xml:lang="fa">وبلاگ دایموند</title>
-  <updated>2022-06-24T06:53:03Z</updated>
+  <updated>2022-06-24T06:53:14Z</updated>
   <rights>Commons Attribution 4.0 International</rights>
 
   <author>
@@ -17,82 +17,6 @@
     <uri>https://daei.enchant.ir</uri>
   </author>
 
-  
-  <entry>
-    
-    <id>https://daei.enchant.ir/2018/01/07/dummy/</id>
-    
-    <title>عنوانی بس طولانی و به غایت مشکل‌ساز که مانده‌ایم با آن چه کنیم!</title>
-    <updated>2018-01-07T22:24:11Z</updated>
-    <link rel="alternate" type="text/html" href="https://daei.enchant.ir/2018/01/07/dummy/"/>
-    
-    <content type="html">
-        <![CDATA[<div dir="rtl"><p>پیش از آنکه شروع به نوشتین کنیم شایسته است بیافزایم که این متن نیز به غایت مشکل‌ساز است. شاید که با عنوان می‌شد به طریقی کنار آمد ولی با متن که هدف غایی خواننده و نویسینده و محل ملاقات آن دو است چه کنیم؟‌ آیا با جفنگ گفتن بیشتر این مشکل حل خواهد شد؟ مرا که گمان این نمی‌رود.</p>
-
-<h1 id="برسیم-به-کار-نوشتن">برسیم به کار نوشتن</h1>
-
-<p><img src="/assets/uploads/dirtybike.jpg" alt="" /></p>
-
-<p>کوان‌های ذن پایتون.</p>
-
-<blockquote>
-  <p>استاد برنامه‌نویس بدین گونه به سخن درآمد: برنامه‌ای که خوب نوشته شده بهشت خودش است و برنامه‌ای که بد نوشته شده جهنم خودش است.</p>
-</blockquote>
-
-<h2 id="و-به-پیش">و به پیش!</h2>
-
-<p>تائوی برنامه‌نویسی، نوشته‌ جفری جیمز، ترجمه آیدین غریب‌نواز</p>
-
-<h3 id="و-پیش">و پیش</h3>
-
-<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="o">&gt;&gt;&gt;</span> <span class="kn">import</span> <span class="nn">this</span>
-
-<span class="n">The</span> <span class="n">Zen</span> <span class="n">of</span> <span class="n">Python</span><span class="p">,</span> <span class="n">by</span> <span class="n">Tim</span> <span class="n">Peters</span>
-
-<span class="n">Beautiful</span> <span class="ow">is</span> <span class="n">better</span> <span class="n">than</span> <span class="n">ugly</span><span class="p">.</span>
-<span class="n">Explicit</span> <span class="ow">is</span> <span class="n">better</span> <span class="n">than</span> <span class="n">implicit</span><span class="p">.</span>
-<span class="n">Simple</span> <span class="ow">is</span> <span class="n">better</span> <span class="n">than</span> <span class="nb">complex</span><span class="p">.</span>
-<span class="n">Complex</span> <span class="ow">is</span> <span class="n">better</span> <span class="n">than</span> <span class="n">complicated</span><span class="p">.</span>
-<span class="n">Flat</span> <span class="ow">is</span> <span class="n">better</span> <span class="n">than</span> <span class="n">nested</span><span class="p">.</span>
-<span class="n">Sparse</span> <span class="ow">is</span> <span class="n">better</span> <span class="n">than</span> <span class="n">dense</span><span class="p">.</span>
-<span class="n">Readability</span> <span class="n">counts</span><span class="p">.</span>
-<span class="n">Special</span> <span class="n">cases</span> <span class="n">aren</span><span class="s">'t special enough to break the rules.
-Although practicality beats purity.
-Errors should never pass silently.
-Unless explicitly silenced.
-In the face of ambiguity, refuse the temptation to guess.
-There should be one-- and preferably only one --obvious way to do it.
-Although that way may not be obvious at first unless you'</span><span class="n">re</span> <span class="n">Dutch</span><span class="p">.</span>
-<span class="n">Now</span> <span class="ow">is</span> <span class="n">better</span> <span class="n">than</span> <span class="n">never</span><span class="p">.</span>
-<span class="n">Although</span> <span class="n">never</span> <span class="ow">is</span> <span class="n">often</span> <span class="n">better</span> <span class="n">than</span> <span class="o">*</span><span class="n">right</span><span class="o">*</span> <span class="n">now</span><span class="p">.</span>
-<span class="n">If</span> <span class="n">the</span> <span class="n">implementation</span> <span class="ow">is</span> <span class="n">hard</span> <span class="n">to</span> <span class="n">explain</span><span class="p">,</span> <span class="n">it</span><span class="s">'s a bad idea.
-If the implementation is easy to explain, it may be a good idea.
-Namespaces are one honking great idea -- let'</span><span class="n">s</span> <span class="n">do</span> <span class="n">more</span> <span class="n">of</span> <span class="n">those</span><span class="err">!</span>
-</code></pre></div></div>
-
-<p>زیبا بهتر از زشت است.<br />
-صریح بهتر از ضمنی است.<br />
-ساده بهتر از پیچیده است.<br />
-پیچیده بهتر از بغرنج است.<br />
-مسطح بهتر از تو در تو است.<br />
-تنک بهتر از متراکم است.<br />
-خوانایی مهم است.<br />
-موارد خاص آنقدر خاص نیستند که قانون را زیر پا گذاشت.<br />
-هرچند کاربری خلوص را مغلوب می‌کند.<br />
-خطاها هرگز نباید بی سر و صدا رد شوند.<br />
-مگر اینکه صریحا مسکوت شده باشند.<br />
-در وقت شک و تردید از حدس زدن پرهیز کن.<br />
-باید تنها و تنها یک راه آشکار برای انجام آن وجود داشته باشد.<br />
-هرچند ممکن است آن راه در ابتدا آشکار نباشد مگر آنکه هلندی باشی!<br />
-اکنون بهتر از هرگز است.<br />
-هرچند هرگز اغلب بهتر از <em>همین حالا</em> است.<br />
-اگر تشریح پیاده‌سازی‌اش سخت است، ایده‌ی بدی است.<br />
-اگر تشرح پیاده‌سازی‌اش ساده است،‌ ممکن است ایده‌ی خوبی باشد.<br />
-فضای نام‌ها ایده‌ی بی‌نظیری هستند – بیایید بیشتر بکار ببریمشان!<br /></p>
-</div>]]>
-    </content>
-    <summary>پیش از آنکه شروع به نوشتین کنیم شایسته است بیافزایم که این متن نیز به غایت مشکل‌ساز است. شاید که با عنوان می‌شد به طریقی کنار آمد ولی با متن که هدف غایی خواننده و نویسینده و محل ملاقات آن دو است چه کنیم؟‌ آیا با جفنگ گفتن بیشتر این مشکل حل خواهد شد؟ مرا که گمان این نمی‌رود. برسیم به کار نوشتن کوان‌های ذن پایتون. استاد برنامه‌نویس بدین گونه به سخن درآمد: برنامه‌ای که خوب نوشته شده بهشت خودش است و برنامه‌ای که بد نوشته شده جهنم خودش است. و به پیش! تائوی برنامه‌نویسی، نوشته‌ جفری جیمز، ترجمه آیدین...</summary>
-  </entry>
   
 
 </feed>
