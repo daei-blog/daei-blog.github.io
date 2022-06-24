@@ -24,7 +24,7 @@ long_description: >
 
 # The tiny icon of the website
 favicon: /assets/img/favicon.png
-permalink: /:categories:/year:month:day-:slug/
+permalink: /:categories/:year:month:day-:slug/
 timezone: Asia/Tehran
 
 paginate: 3
