@@ -5,6 +5,8 @@
 @font-face { font-family: 'IRANSansWeb'; src: url(/assets/fonts/irsw/IRANSansWeb.eot); src: url(/assets/fonts/irsw/IRANSansWeb.eot?#iefix) format("embedded-opentype"), url(/assets/fonts/irsw/IRANSansWeb.otf) format("otf"), url(/assets/fonts/irsw/IRANSansWeb.svg#IRANSansWeb) format("svg"), url(/assets/fonts/irsw/IRANSansWeb.ttf) format("truetype"), url(/assets/fonts/irsw/IRANSansWeb.woff) format("woff"), url(/assets/fonts/irsw/IRANSansWeb.woff2) format("woff2"); }
 
 /* Persian Wikipedia uses this: pfont,'Iranian Serif','Iranian Sans',Tahoma,'Noto Serif','Droid Arabic Naskh','DejaVu Sans',serif !important; Some latin fonts: "Abril Fatface", "Vollkorn", "Josefin Slab" More beatiful open typefaces for latin are described at: https://www.awwwards.com/20-best-web-fonts-from-google-web-fonts-and-font-face.html */
+body { font-family: IRANSansWeb !important; }
+
 /* Palette from 
 https://coolors.co/app/000000-14213d-fca311-e5e5e5-ffffff 
 $brand-color:      #fca311;
