@@ -8,7 +8,3 @@ thumbnail: https://daei.enchant.ir/assets/uploads/hello-world.jpg
 سلام، این اولین پست سایت من است
 
 خیلی خوش اومدید به اینجا
-
-
-
-![](/assets/uploads/2022-06-19_23-08-46.jpg)
