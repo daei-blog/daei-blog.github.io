@@ -5,6 +5,7 @@ layout: default
 <ul class="post-list">
   {% for post in paginator.posts %}
     <li class="post-list-item">
+      <p><a href="{{ post.url | relative_url }}"><img src="{{ post.thumbnail }}" alt="تصویر شاخص" /></a></p>
       <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
       <span class="meta date">{{ post.date | jdate: "%A %d %b %Y" | habify }}</span>
       {{ post.content | strip_html | truncatewords: 50 }}
