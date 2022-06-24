@@ -1,26 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://daei.enchant.ir/2017/12/16/netlify/</loc>
-<lastmod>2017-12-16T00:00:00+03:30</lastmod>
-</url>
-<url>
 <loc>https://daei.enchant.ir/2018/01/07/dummy/</loc>
 <lastmod>2018-01-07T22:24:11+03:30</lastmod>
 </url>
 <url>
 <loc>https://daei.enchant.ir/</loc>
-</url>
-<url>
-<loc>https://daei.enchant.ir/tag/%D8%A7%D9%85%D9%86%DB%8C%D8%AA/</loc>
-</url>
-<url>
-<loc>https://daei.enchant.ir/tag/https/</loc>
-</url>
-<url>
-<loc>https://daei.enchant.ir/tag/cdn/</loc>
-</url>
-<url>
-<loc>https://daei.enchant.ir/tag/ssl/</loc>
 </url>
 </urlset>
